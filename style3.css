@@ -1,0 +1,40 @@
+.btn{
+    background-color: cornflowerblue;
+    color; white;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;   
+    margin-top: 20px; 
+}
+
+ .tabel{
+    background-color:cornflowerblue;
+    margin: 10px;
+    border-style: double;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: Poppins;
+    font-size: smaller;
+ }
+
+ .header{
+     color: violet;
+     padding-bottom: 20px;
+     font-size: larger;
+ }
+
+ .hsl{
+     background-color: cornflowerblue;
+     border-style: unset;
+     font-family: Poppins;
+     font-weight: bold;   
+ }
+
+ .input{
+    border-color: violet;
+    border-radius: 10px;
+    font-family: Poppins;
+ }
+ 
